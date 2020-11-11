@@ -18,11 +18,11 @@ In this project, you build an app that let's you display a todo list from reduce
 - [x] Clone your OWN version of the repository in your terminal.
 - [x] CD into the project base directory `cd reducer-todo`.
 - [x] Create a new react app running `npx create-react-app todo --use-npm`.
-- [ ] CD into the react app directory `cd todo`.
-- [ ] Start up the app using `npm start`.
-- [ ] Create a new branch: git checkout -b `<firstName-lastName>`.
-- [ ] Implement the project on your newly created `<firstName-lastName>` branch, committing changes regularly.
-- [ ] Push commits: git push origin `<firstName-lastName>`.
+- [x] CD into the react app directory `cd todo`.
+- [x] Start up the app using `npm start`.
+- [x] Create a new branch: git checkout -b `<firstName-lastName>`.
+- [x] Implement the project on your newly created `<firstName-lastName>` branch, committing changes regularly.
+- [x] Push commits: git push origin `<firstName-lastName>`.
 
 ### Task 2a: Minimum Viable Product
 
@@ -39,7 +39,7 @@ In this project, you build an app that let's you display a todo list from reduce
 ```js
 {
   item: 'Learn about reducers',
-  completed: false,
+  completed: false,****
   id: 3892987589
 }
 ```
@@ -82,5 +82,6 @@ After finishing your required elements, you can push your work further. These go
 - Have fun with the styling. Make this something you'd be proud to show off!
 
 ## Submission Format
-* [ ] Submit a Pull-Request to merge `<firstName-lastName>` Branch into `main` (student's  Repo). **Please don't merge your own pull request**
-* [ ] Submit the link to your branch to Canvas
+
+- [ ] Submit a Pull-Request to merge `<firstName-lastName>` Branch into `main` (student's Repo). **Please don't merge your own pull request**
+- [ ] Submit the link to your branch to Canvas
